@@ -1,6 +1,8 @@
 # Hospital Management System
 A Hospital Management System using Django Framework  
 
+## Note : Some of the code is collected from one or many sources.One of the source is https://github.com/SanjeevURao
+
 ## Installation
 
 - Clone this repo. `git clone <repo-url>`
